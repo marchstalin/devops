@@ -9,3 +9,6 @@ sleep 10s
 
 echo "free"
 free -g
+
+
+echo " update"
